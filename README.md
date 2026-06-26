@@ -13,55 +13,30 @@
 
 ### 🍁 혼자 완벽한 코드보다, 함께 완성된 서비스를 추구하는 개발자
 
+> 🏢 **[블록스(BLOX)](https://blox.kr/)** · 개발팀 연구원 `2026.06 ~ 현재`
+
 #### 소개
 
-- 🏢 현재 **[블록스(BLOX)](https://blox.kr/) 개발팀 연구원**으로 재직 중이며, 엔터프라이즈 시스템과 AI 솔루션 개발에 참여하고 있습니다.
-- 🔭 Node.js/NestJS·Express 기반 **REST API 설계와 DB 모델링**을 해왔습니다.
-- 🛡️ Prisma 스키마 설계, **JWT Guard 권한 분리**, AuditLog, 예산 예약 트랜잭션을 다룹니다.
-- 👥 Codeit 풀스택 10기에서 **팀장**으로 3개 프로젝트를 리드했습니다.
-- ⚙️ GitHub Actions(CI), E2E 검증, **AWS EC2·PM2·Docker** 기반 운영 환경을 설계합니다.
-- 🌱 혼자 완벽한 코드보다 **동료와 함께 서비스를 끝까지 완성**하는 개발자를 지향합니다.
+- 🔭 Node.js·NestJS 기반 **REST API 설계 / DB 모델링**
+- 🛡️ Prisma 스키마, **JWT Guard 권한 분리**, AuditLog, 예산 예약 트랜잭션
+- ⚙️ GitHub Actions(CI) · E2E · **AWS EC2 · PM2 · Docker** 운영 환경 구축
+- 👥 Codeit 풀스택 10기 **팀장** — 3개 프로젝트 리드
 
 #### 기술 스택
 
-**Frontend**
+`Frontend` ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+`Backend` ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Backend**
+`Database` ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-
-**Infra & Tools**
-
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+`Infra & Tools` ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 #### 활동 기록
 
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=KimMyeongHwan&show_icons=true&count_private=true&theme=gruvbox&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=KimMyeongHwan&hide_border=true&background=2D2620&border=D79921&stroke=D79921&ring=CC5500&fire=FB4934&currStreakNum=EBDBB2&currStreakLabel=FE8019&sideNums=EBDBB2&sideLabels=D5C4A1&dates=A89984)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimMyeongHwan&layout=compact&theme=gruvbox&hide_border=true&langs_count=8)
 
 </div>
@@ -70,16 +45,8 @@
 
 | 프로젝트 | 설명 | 기술 | 링크 |
 | :--- | :--- | :--- | :--- |
-| **Snack** | 조직 기반 구매/예산 운영 플랫폼 | NestJS · Prisma · MySQL · Redis · Docker · JWT | [Repo](https://github.com/BootCamp-Codeit/snack) · [Demo](https://snack-gray.vercel.app) |
+| **Snack** | 조직 기반 구매/예산 운영 플랫폼 | NestJS · Prisma · MySQL · Redis · Docker | [Repo](https://github.com/BootCamp-Codeit/snack) · [Demo](https://snack-gray.vercel.app) |
 | **공부의 숲** | 성장 기록 공유 스터디 플랫폼 | Node.js · Express · Prisma · MySQL | [Repo](https://github.com/BootCamp-Codeit/forest-of-study) · [Demo](https://forest-of-study-mu.vercel.app/) |
-| **최애의 포토** | 유저 간 포토카드 거래·교환 플랫폼 | Next.js · React · Tailwind CSS | [Repo](https://github.com/BootCamp-Codeit/favorite-photo) · [Demo](https://favorite-photo-red.vercel.app/) |
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=KimMyeongHwan&style=for-the-badge&color=B5471B&label=PROFILE+VIEWS)
-
-</div>
+| **최애의 포토** | 포토카드 거래·교환 플랫폼 | Next.js · React · Tailwind | [Repo](https://github.com/BootCamp-Codeit/favorite-photo) · [Demo](https://favorite-photo-red.vercel.app/) |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D99A1C,55:B5471B,100:5C2C0C&height=120&section=footer" width="100%" />
