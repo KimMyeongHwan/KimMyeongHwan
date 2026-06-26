@@ -3,7 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C2C0C,50:B5471B,100:D99A1C&height=230&section=header&text=Kim%20Myeong%20Hwan&fontColor=FBEFD3&fontSize=52&fontAlignY=38&desc=Node.js%20%C2%B7%20NestJS%20Backend%20%C2%B7%20Full-stack%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 
 [![Gmail](https://img.shields.io/badge/lostalgia.kr@gmail.com-C1440E?style=for-the-badge&logo=gmail&logoColor=FBEFD3)](mailto:lostalgia.kr@gmail.com)
+[![Work Email](https://img.shields.io/badge/max@blox.kr-B5471B?style=for-the-badge&logo=maildotru&logoColor=FBEFD3)](mailto:max@blox.kr)
 [![GitHub](https://img.shields.io/badge/KimMyeongHwan-5C2C0C?style=for-the-badge&logo=github&logoColor=FBEFD3)](https://github.com/KimMyeongHwan)
+[![BLOX](https://img.shields.io/badge/BLOX-개발팀%20연구원-D99A1C?style=for-the-badge&logoColor=FBEFD3)](https://blox.kr/)
 
 </div>
 
@@ -13,6 +15,7 @@
 
 #### 소개
 
+- 🏢 현재 **[블록스(BLOX)](https://blox.kr/) 개발팀 연구원**으로 재직 중이며, 엔터프라이즈 시스템과 AI 솔루션 개발에 참여하고 있습니다.
 - 🔭 Node.js/NestJS·Express 기반 **REST API 설계와 DB 모델링**을 해왔습니다.
 - 🛡️ Prisma 스키마 설계, **JWT Guard 권한 분리**, AuditLog, 예산 예약 트랜잭션을 다룹니다.
 - 👥 Codeit 풀스택 10기에서 **팀장**으로 3개 프로젝트를 리드했습니다.
